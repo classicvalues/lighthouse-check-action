@@ -54,7 +54,7 @@
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
     "@foo-software/lighthouse-check": "^6.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash.get": "^4.4.2"
   },
   "devDependencies": {
